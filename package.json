@@ -1,0 +1,29 @@
+{
+  "name": "bringing-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monzter50/bringing-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monzter50/bringing-pattern/issues"
+  },
+  "homepage": "https://github.com/monzter50/bringing-pattern#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
